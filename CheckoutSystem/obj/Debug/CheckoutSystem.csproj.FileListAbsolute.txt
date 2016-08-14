@@ -1,0 +1,7 @@
+C:\Users\Kolade\Desktop\TA March Automation\GainCapitalTask\CheckoutSystem\bin\Debug\CheckoutSystem.exe
+C:\Users\Kolade\Desktop\TA March Automation\GainCapitalTask\CheckoutSystem\bin\Debug\CheckoutSystem.pdb
+C:\Users\Kolade\Desktop\TA March Automation\GainCapitalTask\CheckoutSystem\bin\Debug\CheckoutSystem.exe.config
+C:\Users\Kolade\Desktop\TA March Automation\GainCapitalTask\CheckoutSystem\obj\Debug\CheckoutSystem.exe
+C:\Users\Kolade\Desktop\TA March Automation\GainCapitalTask\CheckoutSystem\obj\Debug\CheckoutSystem.pdb
+C:\Users\Kolade\Desktop\TA March Automation\GainCapitalTask\CheckoutSystem\bin\Debug\nunit.framework.dll
+C:\Users\Kolade\Desktop\TA March Automation\GainCapitalTask\CheckoutSystem\bin\Debug\nunit.framework.xml
